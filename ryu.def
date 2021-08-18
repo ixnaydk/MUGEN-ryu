@@ -1,0 +1,26 @@
+;-----------------------------|
+; Arquivo DEF - Ryu           |
+; criado por Ixnaydk e SAM!   |
+;-----------------------------|
+
+[Info]
+name = "Ixnaydk & SAM! Ryu"
+displayname = "Ryu"
+versiondate = 17,09,2003
+mugenversion = 04,14,2001
+author = "Ixnaydk & SAM!"
+pal.defaults = 6,3,4,2,5,1
+
+[Files]
+cmd = ryu.cmd
+cns = ryu.cns
+st = ryu.cns
+stcommon = common1.cns
+sprite = ryu.sff
+anim = ryu.air
+;sound = owl.snd
+pal1 = ryu.act  
+
+;[Arcade]
+;intro.storyboard=intro.def
+;ending.storyboard=ending.def
